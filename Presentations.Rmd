@@ -1,0 +1,167 @@
+---
+title: "Presentations"
+date: "06/06/2018"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Jansson, M., Benoit, C., Magnuson, D., Smith, M., & Healey, P. (2018). From prostitution to sex work: the importance of research methods. Annual Meeting on Law and Society, June 7. Toronto. 
+
+Benoit, C., Jansson, M., Smith, M., Magnuson, D., & Healey, P. (2018). Reflections on the critical issues and new directions in sex work research from 2006-2018: The enduring importance of comparison. Annual Meeting on Law and Society, June 7-10. Toronto. 
+
+Snell, H., McGrath, J., Pauls, M., & Maguson, D. (2018). Conversations about field practicum in Child & Youth Care Education. 20th National and 12th International Chuld & Youth Care Conference, May 2-4. Vancouver. 
+
+Benoit, C., Jansson, M., Smith, M., Magnuson, D., Healey, P. (2018). Stigma, discrimination & sex workers’ rights: A social justice framework. Keynote address. Symposium on Stigma, Discrimination and Sex Workers’ Rights. February 22nd. University of Wellington, Wellington, New Zealand.
+
+Carty, E., Magnuson, D. (2016). Outdoor adventure youth work: Bridging outdoor adventure and child & youth care. 33rd FICE Conference: Towards a Better World for Children, Adolescents, and Families. Vienna, Austria, 24 August. 
+
+Magnuson, D., Jansson, M., & Benoit, C. (2015). Canadian street-involved youth as emerging adults: moral commitment and ethical interests. Association for Moral Education. Santos, Brazil, Nov 7. 
+
+Learn Something!: Education and Bildung in Residential Care. An International Symposium. Toronto, June, 2014. 
+
+Magnuson, D.,  Benoit, C., Jansson, M., & Kennedy, M. C. (2014). Caregiving, guardianship, and turnover in the lives of street-involved youth. Eighteenth National Child and Youth Care Conference. Moncton: Oct 8-10. 
+
+Rivers, K. & Magnuson, D. (2014). Preliminary data from the evaluation of Youth Transition Conferencing. MCFD Guardianship Conference. April.
+
+Kennedy, M. C., Benoit, C., Jansson, M., Ouellet, N., & Magnuson, D. (2014). "They make me happy and are always there for me." Social relationships and the mental health and well-being of street-involved youth. Fourth Annual Bilingual Conference of the Canadian Society for the Sociology of Health. Montreal, May 5-6.
+
+Magnuson, D., & Peters, F. Research Dialogue Series, Moderator. International Federation of Educative Communities, 2013 Conference, Berne, Switzerland, October 9.
+
+Kennedy, M. C., Jansson, M., Benoit, C., & Magnuson, D. (2013). Linking social support to mental health and well-being among street-involved youth. Presentation at the Canadian Sociological Association, Victoria, B.C., June 5.
+
+Kennedy, M. C., Jansson, M., Benoit, C., & Magnuson, D. (2013). Friends, family, social support and substance use as mental health determinants for street-involved youth. 12th Annual Harm Reduction Conference, Calgary, May 22-23.
+
+Magnuson, D. (2012). Teaching research methods to child & youth care students. Canmore, Alberta, International Child & Youth Care Conference, October, 2012. 
+
+Magnuson, D., & Jansson, M. (2012). Pathways and consequences of instability in the lives of street-involved youth. Edmonton, Alberta, July 9, 22nd Biennial Meeting of the International Society for the Study of Behavioural Development.   
+
+Magnuson, D. (2011). Moral commitment: examples from child protection. Association for Moral Education, Nanjing, China, October 24-28.
+
+Anderson-Nathe, B., & Magnuson, D. (2011). Reflections on the discourse of positive youth development. Child & Youth Care in Action, Victoria, BC, April. 
+
+Magnuson, D. (2009). Negotiation strategies for collaboration with parents. International Child & Youth Care Conference, Fort Lauderdale, FL, May, 2009. 
+
+Society for the Prevention of Child Abuse and Neglect, Hong Kong, September 7-10.
+
+Magnuson, D. (2009). Principles of studying practice settings in child protection. Presentation to the Ministry of Children and Family Development, Victoria, BC, November.
+
+Magnuson, D. (2009). Helping and domestic violence in child protection. Presentation to the Ministry of Children and Family Development, Victoria, BC, June, 2009.
+
+Magnuson, D. (2009). Practice audit sampling plan. Report to the Ministry of Children and Family Development, Victoria, B.C. 
+
+Magnuson, D. (2009). Research and evaluation plan for the practice monitoring system. Report to the  Ministry of Children and Family Development, Victoria, B.C.
+
+Magnuson, D. (2009). Steps in developing a practice audit. Report to the Ministry of Children and Family Development, Victoria, B.C.
+
+Magnuson, D. (2009). Weighting and validating the existing audit system. Report to the Ministry of Children and Family Development, Victoria, B.C.
+
+Magnuson, D. (2009). Practice audit sampling plan. Report to the Ministry of Children and Family Development, Victoria, B.C.
+
+Magnuson, D. (2009). An example of an integrated approach to research, analysis, and evaluation. Report to the Ministry of Children and Family Development, Victoria, B.C.
+
+Emerson, D., & Magnuson, D. (2009). An evaluation of Islands of Safety for victims and perpetrators of Violence in Families. 
+
+Lee, C., & Magnuson, D. (2009). Youth volunteer connections program: an evaluation of youth experience. Volunteer Victoria, Victoria, BC. 
+
+Magnuson, D., & Patten, N. (2008). The use of power in child and youth care: lessons from child protection. Canadian Child & Youth Care Conference, Prince Edward Island, October 7-10.
+
+Magnuson, D. (2008). Delegated and delicate: child protection authority and the practice of public health. Child & Youth Health Research Network, Nelson, BC, November, 2008.
+
+Magnuson, D., Patten, N., & Predy, S. (2008). Negotiation, authority, and the use of power in child protection. Child & Youth Care in Action Conference, Victoria, BC, April 24-26.
+
+Magnuson, D. (2008). The use of power and authority in child protection practice. International Society for the Prevention of Child Abuse and Neglect, Hong Kong, September 7-10. 
+
+Magnuson, D., & Patten, N. (2008). Power, negotiation, and the involuntary client in child protection. Report to the Ministry of Children and Family Development, Victoria, B.C. 
+
+Magnuson, D., & Patten, N. (2007). “At the end of the day:” The negotiated relationship in child protection. Report on interviews with child protection workers, School of Child & Youth Care, University of Victoria.
+
+Magnuson, D., & students in CYC 423. (2007, fall). Day programming, family work, and life skills in addiction services. Prepared for Louise Mourakis, Youth Addiction Services, Vancouver Island Health Authority.
+
+Magnuson, D., & Scott, D. (2006). Spirituality in child and youth care practice. International Child and Youth Care Conference. Montreal, Quebec, October 17-20.
+
+Magnuson, D., Spanje, S., & Kresoja, S. (2006). Work with youth in divided and contested societies. Presentation at the FICE Conference, Sarajevo, September 6-8.
+
+Berland, J., White, J., Hoskins, M., & Magnuson, D. (2006). Knocking on the door: What matters most when engaging with families. Presentation at the World Forum: Future Directions in Child Welfare conference, Vancouver, November.
+
+Magnuson, D. (2005). A national spatial strategy for children and youth. National Spatial Strategy: Exploring the Economic and Social Implications, Athlone, Ireland, April 15.
+
+Magnuson, D., & Cebula, E. (2004). Patterns of participation in ECHOES among frequent attendees: A report to ECHOES.  
+
+Magnuson, D., Cebula, E., & Henderson, J. (2004). Collaboration in ECHOES: A report. 
+
+Magnuson, D. (2004). Goals and outcomes of writing for youthwork in contested spaces. Kilrea, Northern Ireland, Public Achievement, N.I. July 23-28.
+
+Magnuson, D. (2004). Levels of evidence in evaluation of youth programs. Presentation to graduate seminar, Athlone Institute of Technology, Athlone, Ireland. September 14.  
+
+Magnuson, D. (2004). Learning in community. Jagellonian University, Foundations of Educational Community International Conference.
+
+Irons, D., & Magnuson, D. (2003). Annual program report to the U.S. Department of Education, 21st Century After-School Learning Centers, Waterloo, IA.
+
+Magnuson, D., & Baizerman, Michael. (2003). A study of the experience of “vocation.” Promise Into Practice: The International Child & Youth Care Conference. Victoria, Canada. August 20-23.
+
+Magnuson, D. (2003). Social and moral climates in child and youth care work. Promise Into Practice: The International Child & Youth Care Conference. Victoria, Canada. August 20-23.
+
+Magnuson, D. (2003). Models of youthwork. Youthwork in Contested Spaces, Contributor. Belfast, Northern Ireland. September 5-6.
+
+Magnuson, D. (2003). Adult leadership, moral development, youth empowerment. Connections that Count. Glasgow, Scotland. September 10-12.  
+
+Magnuson, D. (2003). The politics of moral education in U.S. after-school programs. Association for Moral Education. Krakow, Poland.  July 17-20. 
+
+Magnuson, D. (2003). The Foundation at work: Getting youth on the agenda. McCreary Youth Foundation. Victoria, B.C. August 20.
+
+Magnuson, D., & Stuart, C. (2003). How will child and youth education evolve over the next decade?  Educators Forum, August 23. Promise Into Practice: The International Child & Youth Care Conference. Victoria, Canada. August 20-23.
+
+Magnuson, D. (2002). Youthwork models in Israel and the U.S. Global Health Corps Conference, 10 April, 2002.
+
+Irons, D., & Magnuson, D. (2002). Annual program report to the U.S. Department of Education, 21st Century After-School Learning Centers, Waterloo, IA.
+
+Magnuson, D., Randall, S., & Irons, D. (2002). The ECHOES after-school program: A first report. Waterloo, IA, Schools.
+
+Magnuson, D. (2001). The craft of youthwork: A history. Presentation to the Twin Cities Youth Policy Forum, Mpls, MN.
+
+Magnuson, D. (2001, Dec).  Development: preventing risk and improving academics. Presentation to the School of HPELS Faculty Colloquium.
+
+Johnson, D., & Magnuson, D. (2000). The role of conflict in moral development. Society for the Study of Social Issues, American Psychological Association. Minneapolis, MN.
+
+Magnuson, D., Hudson, S., Edgar, J., & Wang, J. (1999). Leisure’s contribution to youth development. Rethinking Leisure. Penn State University.
+
+Magnuson, D., Burger, L., & Randall, S. (1999). Models of staffing in residential settings. A report to the Hershey Foundation.
+
+Magnuson, D. (1998). Community life and situated moral identities. Association for Moral Education. Dartmouth College. 
+
+Richter, D., Magnuson, D., & Baizerman, M. (1997). Reconceiving youth ministry. The Association of Professors and Researchers in Religious Education, Oakland, CA.
+
+Magnuson, D., & Baizerman, M. (1997). What does vocation have to add to youthwork in congregations? International Youth Ministries Conference.  Mansfield College, Oxford, England.
+
+Magnuson, D., Baizerman, M., & Sprinthall, N. (1997). The vocation of character. Association for Moral Education. Atlanta, GA.
+
+Magnuson, D., & Baizerman, M. (1996).  The call to commitment: A report on YouthWorks*Americorps. A Report for the Minnesota Department of Education.
+
+Wirt, J., & Magnuson, D. (1996). Work-based learning and youth development. Presentation at the National Leadership Forum on School-to-Career Transition. Long Beach, CA.
+
+Magnuson, D. (1996). Implications of principles from Israeli residential programs for U.S. practice. Minnesota Social Service Association.  Minneapolis, Minnesota.
+
+Magnuson, D., & Baizerman, M. (1996). An invitation to leadership: An evaluation of Exploring as a calling to responsible commitment. A report to the Boy Scouts of America, Exploring Division. Dallas, Texas.
+
+Magnuson, D. (1995). A teaching-family response to criticisms of behavior modification. Teaching-Family Association National Conference.  Banff, Canada.
+
+Magnuson, D., & Dudley, B. (1992). Teaching the management of conflict. Minnesota Educational Effectiveness Program. Winter Conference, Minneapolis, MN.
+
+Magnuson, D. (1991). Using constructive controversy for teaching ethical issues in law. Minnesota Law-Related Education Conference, Minneapolis, MN.
+
+
+
+ 
+
+
+ 
+
+
+
+
+
+
+
