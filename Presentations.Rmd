@@ -1,12 +1,22 @@
 ---
 title: "Presentations"
-date: "06/06/2018"
-output: html_document
+output:
+  prettydoc::html_pretty:
+    highlight: github
+    theme: cayman
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
+
+Benoit, C., Jansson, M., Magnuson, D., Healey, P., Smith, M., Unsworth, R., Vetrone, L. (2019). Prostitution stigma and its effect on the working conditions, personal lives and health of sex workers. Canadian-Australian Health Sociology Conference, June 6-8, Vancouver, BC.
+
+Healey, P., Benoit, C., Jansson, M., Magnuson, D., Smith, M., Unsworth, R., Vetrone, L. (2019). People in sex work compare it to other precarious jobs. Canadian-Australian Health Sociology Conference, June 6-8, Vancouver, BC.
+
+Smith, M., Benoit, C., Jansson, M., Magnuson, D., Healey, P., Unsworth, R., Vetrone, L. (2019).‘I dodged the stigma bullet’: Canadian sex workers’ situated responses to occupational stigma. Canadian-Australian Health Sociology Conference, June 6-8, Vancouver, BC.
+
+Unsworth, R., Benoit, C., Jansson, M., Magnuson, D., Healey, P. Smith, M., Vetrone, L. (2019). What changes or supports do sex workers want? Canadian-Australian Health Sociology Conference, June 6-8, Vancouver, BC.
 
 Jansson, M., Benoit, C., Magnuson, D., Smith, M., & Healey, P. (2018). From prostitution to sex work: the importance of research methods. Annual Meeting on Law and Society, June 7. Toronto. 
 

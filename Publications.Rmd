@@ -1,28 +1,43 @@
 ---
 title: "Publications"
-date: "07/15/2018"
-output: html_document
+date: "05/6/2019"
+output:
+  prettydoc::html_pretty:
+    highlight: github
+    theme: cayman
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+Benoit, C., Smith, M., Jansson, M., Healey, P., & Magnuson, D. (2019). Delinking Prostitution and Sex Trafficking: Response to Commentaries. *Archives of Sexual Behavior*. Available: https://link.springer.com/article/10.1007/s10508-019-1461-2
+
+Benoit, C., Maurice, R., Abel, G., Smith, M., Jansson, M., Healey, P., & Magnuson, D. (2019). "I dodged the stigma bullet:" Canadian Sex Workers' situated response to occupational stigma. *Culture, Health, & Sexuality: An international journal for research, intervention, and care.* https://doi.org/10.1080/13691058.2019.1576226
+
+Magnuson, D., Jansson, M., Benoit, C. (2019). Foster care as a support system for early leavers. In Varda Mann-Feder, (ed). *Leaving Care and the Transition to Adulthood: International Contributions to Theory, Research, and Practice.* Oxford University Press.
+
+Snell, H. Stuart, C., & Magnuson, D. (2019). Post-secondary education as a crucible for learning practice. In K. Girabaghi & G. Charles (eds.), *Child & Youth Care Across Sectors vol 1.* Canadian Scholars Press. 
+
+Carty, E., & Harper, N. (2019). Outdoor adventure and CYC practice. In K. Girabaghi & G. Charles (eds.), *Child & Youth Care Across Sectors vol 1* Canadian Scholars Press. 
+
+Benoit, C., Smith, M., Jansson, M., Healey, P., & Magnuson, D. (2018). The 'prostitution problem:' claims, evidence, and policy outcomes. *Archives of Sexual Behavior*: https://doi.org/10.1007/s10508-018-1276-6
+
 Magnuson, D., Jansson, M., & Benoit, C. (2018). "I feel like I've really grown up: A brief report on street-involved youth. *Research to practice network, 2*(1). Available: https://fcssbc.ca/sf-docs/r2p/2018_magnuson.pdf
-
-Magnuson, D., Jansson, M., Benoit, C. (in press). Foster care as a support system for early leavers. In Varda Mann-Feder, (ed). *Leaving Care and the Transition to Adulthood.* Oxford University Press. 
-
-Benoit, C., Smith, M., Jansson, M., Healey, P., & Magnuson, D. (accepted for publication). The prostitution problem: claims and evidence. *Archives of Sexual Behavior*.
 
 Magnuson, D. (in press). "I feel like I've really grown up:" *The experience of emerging adulthood among street-involved youth.* Oxford University Press. 
 
-Magnuson, D., & Healey, P. (2018). The multi-armed bandit algorithm. *CYC-Online*, in press. 
+Magnuson, D. (2018). What's wrong with professional consultations? *CYC-Online*, *236*. 
+
+Magnuson, D., & Healey, P. (2018). The statistical reason why youth work ought to be voluntary.  *CYC-Online*, *236*. 
+
+Magnuson, D., & Healey, P. (2018). The multi-armed bandit algorithm. *CYC-Online*, *234,* 30-33. 
 
 Magnuson, D., & Vachon, W. (2018). Being competent about competence. *CYC-Online*, *231,* 22-24.
   
 Magnuson, D. (2018). Why relationships are left out of evaluations. *CYC-Online*, *227,* 21-23. 
   
-Kennedy, M.C,, Jansson, M., Benoit, C., Magnuson, D., Scramstad, J., Halgrimsdottir, H. (2017). Social support among street-involved youth. *Journal of Youth Studies, 20*(10), pp. 1328-1345. To link to this article: http://dx.doi.org/10.1080/13676261.2017.1333582  
+Kennedy, M.C., Jansson, M., Benoit, C., Magnuson, D., Scramstad, J., Halgrimsdottir, H. (2017). Social support among street-involved youth. *Journal of Youth Studies, 20*(10), pp. 1328-1345. To link to this article: http://dx.doi.org/10.1080/13676261.2017.1333582  
 
  Magnuson, D. (2017). How to ask for help. *CYC-Online, 225,* 26-29.   
 
@@ -36,9 +51,9 @@ Magnuson, D. (2017). Why you should worry about clinical judgment and interviews
 
 Magnuson, D. (2017). Data collection and use as practice. *CYC-Online,  215,* 30-32. 
 
- Magnuson, D. (2016). The naivete of evidence-based practice.   CYC-Online,  213, 20-21. 
+Magnuson, D. (2016). The naivete of evidence-based practice.   CYC-Online,  213, 20-21. 
 
- Magnuson, D. (2016). Propaganda with and without evidence.   CYC-Online,  211, pp. 19-21. 
+Magnuson, D. (2016). Propaganda with and without evidence.   CYC-Online,  211, pp. 19-21. 
 
 Magnuson, D. (2016). Signs and symptoms in child and youth care evaluation.   *CYC-Online,  209,* 24-26. 
 

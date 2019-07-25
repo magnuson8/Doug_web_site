@@ -1,0 +1,43 @@
+---
+title: "Current Projects"
+author: "Magnuson"
+date: '2019-01-07'
+output:
+  prettydoc::html_pretty:
+    highlight: github
+    theme: cayman
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+
+### Risky Business (Street-Involved Youth)
+
+Magnuson, D., Jansson, M., & Benoit, C. [in press] “I feel like I’ve really grown up.” The experience of emerging adulthood among street-involved youth. Oxford University Press.
+
+Magnuson, D., Jansson, M., & Benoit, C. Foster care as a support system for early leavers. In V. Mann-Feder, M. Goyette (eds). Leaving care and the transition to adulthood: International contributions to theory and practice. Oxford University Press.
+
+
+### CYC Writing
+
+See the Publications list for columns in CYC-Online.
+
+Carty, E., Harper, N., & Magnuson, D. Outdoor adventure and child and youth care: intersections and opportunities. In K. Gharabaghi (ed). CYC across contexts.
+
+Stuart, C., Snell, H., & Magnuson, D. Post-secondary education as a crucible for learning CYC practice. In K. Gharabaghi (ed). CYC across contexts.
+
+Snell, H., McGrath, J., Pauls, M., & Magnuson, D. (manuscript in preparation). Fieldwork in CYC: What is it for? 
+
+### Adventure Therapy, with Nevin Harper
+
+Data analysis and writing about U.S. adventure treatment programs.
+
+
+### CYC Accreditation: Survey Administration and Evaluation
+
+Administering student and alumni surveys for the Child and Youth Care Educational Accreditation Board of Canada
+
+
